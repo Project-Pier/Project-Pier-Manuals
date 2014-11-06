@@ -16,7 +16,7 @@ A minimum of one user account must be created, this is the **administrator accou
 Within ProjectPier each user is given their own user account. This will be a unique username and password the user will enter to gain access to your installation of ProjectPier. The screen for creating the administrator account will be shown automatically after the final setup screen, a screenshot is shown in Figure 1.
 
 **Figure 1**
-![Figure 1](ADMINISTRATOR.png"Create Administrator Account")
+![Figure 1](ADMINISTRATOR.png "Create Administrator Account")
 
 To complete the installation of ProjectPier provide the information required on this form:
 - Username
@@ -33,7 +33,7 @@ The administrator creation page will never be shown again! Any future visits to 
 A screenshot of the login screen is shown in figure 2 below.
 
 **Figure 2**
-![Figure 2](LOGIN.png"Login To Your Account")
+![Figure 2](LOGIN.png "Login To Your Account")
 
 Use the login screen to login to your ProjectPier installation using the administrator username and password created in the previous steps.
 
