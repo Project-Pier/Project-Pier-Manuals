@@ -1,3 +1,5 @@
+# Install ProjectPier
+
 Unless you have downloaded projectpier directly to your web server as described above, unzip the file **pp088wSP2_2014-08-14.zip** to a temporary location on the hard drive of your local computer.
 Using an FTP client software application such as [FileZilla](http://filezilla-project.org/), transfer the files to your web hosting home directory.
 
@@ -10,7 +12,9 @@ Regardless of how you have accomplished the task of placing the files on your se
 ProjectPier will need to write to certain files on your file system as outlined in the two sub-items below.
 
 - On Windows systems there is generally no special settings required.
-- On *nix systems file permissions will need to be set accordingly. Taking these steps in advance is optional; the installer will let you know if it needs write access to a file or directory to which it does not have proper access at the time the installer is run.
+- On *nix systems file permissions will need to be set accordingly.
+  > Taking these steps in advance is optional; the installer will let you know if it needs write access to a file or directory to which it does not have proper access at the time the installer is run.
+
   - Locate the following directories and change the permissions such that they are writable by the web server (755 will work on most *nix systems):
     - /public/files
     - /cache
