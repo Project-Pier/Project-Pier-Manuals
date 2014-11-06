@@ -1,3 +1,5 @@
+# Download ProjectPier
+
 Download ProjectPier from our [Download Page](http://www.projectpier.org/download).
 
 ![Download ProjectPier](https://github.com/Project-Pier/Project-Pier-Manuals/blob/master/DOWNLOAD.png "Download ProjectPier from our Download Page")
